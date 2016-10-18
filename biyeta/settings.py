@@ -94,5 +94,5 @@ HTTPCACHE_IGNORE_HTTP_CODES = []
 HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 #User login credentials
-USER_NAME = 'kismat207@gmail.com'
-PASSWORD = '01912198901'
+USER_NAME = 'someemail@gmail.com'
+PASSWORD = 'pass'
