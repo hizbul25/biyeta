@@ -5,6 +5,7 @@ This crawler export n profile information into a csv file within a minute. Then 
 
 ## Usage
 I guess you have a account in http://biyeta.com and you have completed your profile.
+
 1. Install scrapy in your machine `pip install scrapy`
 2. Go to project directory `$ cd biyeta`
 3. Set login credential to `settings.py` file. `USER_NAME = 'someemail@gmail.com'` and `PASSWORD = 'pass'`
